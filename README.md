@@ -1,4 +1,4 @@
-# RTAL MIOSAURUS
+# RTAL MioSaurus Synthesizer
 
 https://github.com/user-attachments/assets/e4182e42-5c0f-431b-ac0a-019e10d87a53
 
