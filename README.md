@@ -1,14 +1,10 @@
 # RTAL MIOSAURUS
 
-![RTAL MIOSAURUS](docs/images/00_MIOSAURUS_HERO.jpg)
+https://github.com/user-attachments/assets/e4182e42-5c0f-431b-ac0a-019e10d87a53
 
 **Firmware V0.14B FIX7 - Pre-V1.0 Release Candidate Basis**
 
 > Mono / two-note paraphonic ESP32-S3 touch synthesizer with 128-step morphing, resonant filter, MIDI Learn, 128 SD presets and additive stereo FX returns.
-
-## Sound Demo
-
-[▶ RTAL_MioSaurus_Sound_Demo.mp4](RTAL_MioSaurus_Sound_Demo.mp4)
 
 ## Quick Start
 
