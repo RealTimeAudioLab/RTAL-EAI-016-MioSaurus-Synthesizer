@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/e4182e42-5c0f-431b-ac0a-019e10d87a53
 
-**Firmware V0.14B FIX7 - Pre-V1.0 Release Candidate Basis**
+**Firmware V1.0.0**
 
 > Mono / two-note paraphonic ESP32-S3 touch synthesizer with 128-step morphing, resonant filter, MIDI Learn, 128 SD presets and additive stereo FX returns.
 
@@ -97,10 +97,4 @@ Reserved CCs: **1, 32, 120, 123**.
 - [German manual](docs/RTAL_MIOSAURUS_Handbuch_DE.pdf)
 - [English manual](docs/RTAL_MIOSAURUS_Manual_EN.pdf)
 
-## Path to V1.0.0
 
-- Worst-case PARA2 + centered morph + all FX
-- Full DIN/USB MIDI audit
-- Preset V1/V2 and MIDI Learn persistence
-- 30-60 minute endurance test
-- Version/debug cleanup and documentation freeze
